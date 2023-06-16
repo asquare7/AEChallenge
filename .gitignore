@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AE.Domains/bin/Debug/net6.0
+/AE.Api/bin/Debug/net6.0
+/AE.Domains/obj
+/AE.Api/obj
+/AE.Models/bin/Debug/net6.0
+/AE.Models/obj
+/AE.Repositories/bin/Debug/net6.0
+/AE.Repositories/obj
+/AE.Tests/bin
+/AE.Tests/obj
+/.vs
